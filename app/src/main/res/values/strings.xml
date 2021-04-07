@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Android Mid Homework 14</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="box_capacity">Box Capacity</string>
+    <string name="apples_inital_count">Apples Inital Count</string>
+    <string name="apples_count">Apples Count</string>
+    <string name="reset">Reset</string>
+    <string name="put_one">Put One</string>
+    <string name="take_one">Take One</string>
 </resources>
